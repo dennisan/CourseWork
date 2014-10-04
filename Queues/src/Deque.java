@@ -194,7 +194,7 @@ public class Deque<Item> implements Iterable<Item>
 	   StdOut.printf("deque has %d integers - ", d.size());
 	   for (int i : d) StdOut.printf("%d ", i);
 
-	   StdOut.printf("\n\n====== test 2 ======\n");
+	   StdOut.printf("\n\n====== test B ======\n");
 	   StdOut.printf("Adding 1000 integers to back\n");
 
 	   for (int i = 0; i < 1000; i++)
